@@ -1,0 +1,4 @@
+#!/bin/bash
+
+csvlook $@ | head -n 20
+
