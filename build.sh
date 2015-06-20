@@ -39,4 +39,4 @@ muscle -maxiters 2 -in $inseqs -out $alignment
 
 # Phylognetic tree
 tree="$outdir/tree.nw"
-FastTree -nt $alignment > $tree
+FastTree -seed 1234 -nt $alignment > $tree
