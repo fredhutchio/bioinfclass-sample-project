@@ -3,6 +3,6 @@
 # Sane error handling settings
 set -euf -o pipefail
 
-ls -l | column -t
-echo "IT WORKED!"
+# Compute number of sequences per species
+csvuniq -zc species data/sfv.csv > output/seqs_per_species.csv
 
