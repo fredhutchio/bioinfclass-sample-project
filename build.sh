@@ -35,11 +35,11 @@ csvuniq -zc species,location $seqs_per_specimen > $specs_per_species_location
 
 # Alignment
 alignment="$outdir/alignment.fasta"
-muscle -maxiters 2 -in $inseqs -out $alignment
+#muscle -maxiters 2 -in $inseqs -out $alignment
 
 # Phylognetic tree
 tree="$outdir/tree.nw"
-FastTree -seed 1234 -nt $alignment > $tree
+#FastTree -seed 1234 -nt $alignment > $tree
 
 
 # Location comparison
@@ -47,7 +47,6 @@ FastTree -seed 1234 -nt $alignment > $tree
 
 # We'd like to compare the viruses from each of these locations, so we're going to split the data for each one
 # and run analyses separately, then recombine later.
-exit
 
 # Get array of locations
 locations=($(csvuniq -c location $metadata | tail -n +2))
@@ -67,8 +66,13 @@ do
   loc_sequences="$loc_outdir/sequences"
   csvcut -c sequence $loc_metadata > $loc_sequences
 
-  # Do something interesting with each location's sequences, etc
-  # ...
+  # Subset our alignment to just that location
+  loc_alignment="$loc_outdir/alignment.fasta"
+  seqmagick convert --include-from-file $loc_sequences $alignment $loc_alignment
+
+  # Build a location tree
+  loc_tree="$loc_outdir/tree.nw"
+  FastTree -seed 1234 -nt $loc_alignment > $loc_tree
 done
 
 # Do something interesting with the things done for each location
