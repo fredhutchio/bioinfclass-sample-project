@@ -1,3 +1,4 @@
+#!/bin/bash
 
 # Sane error handling settings
 set -euf -o pipefail
