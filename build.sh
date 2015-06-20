@@ -40,3 +40,37 @@ muscle -maxiters 2 -in $inseqs -out $alignment
 # Phylognetic tree
 tree="$outdir/tree.nw"
 FastTree -seed 1234 -nt $alignment > $tree
+
+
+# Location comparison
+# -------------------
+
+# We'd like to compare the viruses from each of these locations, so we're going to split the data for each one
+# and run analyses separately, then recombine later.
+exit
+
+# Get array of locations
+locations=($(csvuniq -c location $metadata | tail -n +2))
+
+# For each location...
+for location in ${locations[*]}
+do
+  # Create a location outdir, if it doesn't already exist
+  loc_outdir="$outdir/$location"
+  mkdir -p $loc_outdir
+
+  # Create a subset of the metadata for just that location
+  loc_metadata="$loc_outdir/metadata.csv"
+  csvgrep -c location -m $location $metadata > $loc_metadata
+
+  # Create a list of sequences sampled from that location
+  loc_sequences="$loc_outdir/sequences"
+  csvcut -c sequence $loc_metadata > $loc_sequences
+
+  # Do something interesting with each location's sequences, etc
+  # ...
+done
+
+# Do something interesting with the things done for each location
+# ...
+
