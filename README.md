@@ -15,4 +15,7 @@ Consequently, my next step in the analysis is to split the data apart by locatio
 phylogenetic trees for each of these locations.
 Perhaps some pattern will emerge that I can study further.
 
+## Dec 16, 11:32 AM
+
+Don't tell me what to do, bioinformatics slides
 
