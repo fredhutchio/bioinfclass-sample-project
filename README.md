@@ -1,8 +1,8 @@
-Run the location trees.
-INteresting data.
-Thinking about some other data now.
+## March 1, 10:47 AM
 
-
+Ran the location trees.
+Interesting data.
+Thinking about some other studies now.
 
 
 # Bioinfclass Notes
