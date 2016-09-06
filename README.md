@@ -1,3 +1,8 @@
+## June 24, 3:30PM
+
+Ran the location trees.
+Interesting data.
+Thinking about some other studies now.
 
 ## March 1, 10:47 AM
 
