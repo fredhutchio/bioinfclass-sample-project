@@ -16,4 +16,8 @@ Consequently, my next step in the analysis is to split the data apart by locatio
 phylogenetic trees for each of these locations.
 Perhaps some pattern will emerge that I can study further.
 
+##Sep 2, 2016
+
+Ran trees
+blah blah
 
