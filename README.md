@@ -21,4 +21,7 @@ Consequently, my next step in the analysis is to split the data apart by locatio
 phylogenetic trees for each of these locations.
 Perhaps some pattern will emerge that I can study further.
 
-
+## October 27, 10:50AM
+Ran the location trees.
+Interesting data
+Thinking about some other studies now.
