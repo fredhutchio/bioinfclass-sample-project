@@ -10,3 +10,7 @@ phylogenetic trees for each of these locations.
 Perhaps some pattern will emerge that I can study further.
 
 
+Making some changes now.
+This will be an example to send to commit on github.
+
+October 24, 2016
