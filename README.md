@@ -1,6 +1,8 @@
 
 # Bioinfclass Notes
 
+## October 24, 2016
+Adding notes to the readme file.
 
 ## Jun 19, 10:08 PM
 
