@@ -2,7 +2,7 @@
 # Bioinfclass Notes
 
 
-## Jun 19, 10:08 PM
+## Oct 24, 2016 2:40 PM
 
 Looking at the data, I'm becoming interested in what differences we might find between different species.
 Consequently, my next step in the analysis is to split the data apart by location, and look at the
