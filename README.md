@@ -1,4 +1,4 @@
-oct 24 2016 emotion control
+oct 24 2016
 # Bioinfclass Notes
 
 
