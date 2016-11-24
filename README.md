@@ -1,3 +1,9 @@
+Run the location trees.
+INteresting data.
+Thinking about some other data now.
+
+
+
 
 # Bioinfclass Notes
 
@@ -9,6 +15,11 @@ Consequently, my next step in the analysis is to split the data apart by locatio
 phylogenetic trees for each of these locations.
 Perhaps some pattern will emerge that I can study further.
 
+## March 1, 11:00AM
+
+Ran the location trees.
+Interesting data.
+Thinking about some other studies now. -SBK
 
 Ran the location trees.
 Interesting data.
