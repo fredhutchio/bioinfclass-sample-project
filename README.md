@@ -13,3 +13,10 @@ Perhaps some pattern will emerge that I can study further.
 Ran the location trees.
 Interesting data.
 Thinking about some other studies now.
+
+
+## Jan 30, 2:40 PM
+
+Ran the location trees.
+Interesting data.
+Thinking about some other studies now.
