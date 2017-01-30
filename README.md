@@ -13,3 +13,9 @@ Perhaps some pattern will emerge that I can study further.
 Ran the location trees.
 Interesting data.
 Thinking about some other studies now.
+
+## June 24, 3:30PM
+
+Ran the location trees.
+Interesting data.
+Thinking about some other studies now.
