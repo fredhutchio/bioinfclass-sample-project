@@ -1,6 +1,9 @@
 
 # Bioinfclass Notes
 
+## June 24, 3:30PM
+
+Initiated into the world of git.
 
 ## Jun 19, 10:08 PM
 
