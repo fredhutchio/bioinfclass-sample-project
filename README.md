@@ -1,6 +1,7 @@
-
 # Bioinfclass Notes
 
+## April 27, 2017
+The internet is working finally in this room! :)
 
 ## Jun 19, 10:08 PM
 
