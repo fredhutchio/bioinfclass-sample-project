@@ -1,3 +1,9 @@
+## March 1, 10:47 AM
+
+Ran the location trees.
+Interesting data.
+Thinking about some other studies now.
+
 
 # Bioinfclass Notes
 
@@ -9,7 +15,9 @@ Looking at the data, I'm becoming interested in what differences we might find b
 Consequently, my next step in the analysis is to split the data apart by location, and look at the
 phylogenetic trees for each of these locations.
 Perhaps some pattern will emerge that I can study further.
-
+Ran the location trees.
+Interesting data.
+Thinking about some other studies now.
 
 Ran the location trees.
 Interesting data.
