@@ -73,8 +73,14 @@ do
   # Build a location tree
   loc_tree="$loc_outdir/tree.nw"
   FastTree -seed 1234 -nt $loc_alignment > $loc_tree
+  # Do something interesting with each location's sequences, etc
+  # ...
+    loc_spec_count="$loc_outdir/seqcount"
+    wc -l $loc_sequences > $loc_spec_count
 done
 
 # Do something interesting with the things done for each location
+loc_spec_counts="$outdir/location_specimen_counts.txt"
+find $outdir -name seqcount | xargs cat > $loc_spec_counts
 # ...
 

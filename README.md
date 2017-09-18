@@ -1,6 +1,9 @@
 
 # Bioinfclass Notes
 
+## Jan 30, 2017 2:34 PM
+Today we looked at git.
+
 
 ## Jun 19, 10:08 PM
 
