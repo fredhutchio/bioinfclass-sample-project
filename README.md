@@ -1,4 +1,11 @@
 
+## March 1, 10:47 AM
+
+Ran the location trees.
+Interesting data.
+Thinking about some other studies now.
+I like caffeine.
+
 # Bioinfclass Notes
 
 September 2017 - today I wrote a sentence and it was a good time
