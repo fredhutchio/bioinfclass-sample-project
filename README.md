@@ -1,6 +1,7 @@
 
 # Bioinfclass Notes
 
+September 2017 - today I wrote a sentence and it was a good time
 
 ## Jun 19, 10:08 PM
 
@@ -15,7 +16,8 @@ Interesting data.
 Thinking about some other studies now.
 
 
-## Jan 30, 2:40 PM
+## June 24, 3:30PM
+
 
 Ran the location trees.
 Interesting data.
@@ -24,3 +26,4 @@ Thinking about some other studies now.
 blablabla
 
 I just need to type in something here
+
