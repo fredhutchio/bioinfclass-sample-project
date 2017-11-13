@@ -23,3 +23,13 @@ Ran the location trees.
 Interesting data.
 Thinking about some other studies now.
 
+## Sep 18 2017
+
+Did a cool class on git; was really fun.
+
+
+## Nov 13, 2017
+
+Great class.
+Fake news.
+
