@@ -23,3 +23,10 @@ Ran the location trees.
 Interesting data.
 Thinking about some other studies now.
 
+
+
+
+# November 13, 3:30pm
+
+Did some stuff!
+
