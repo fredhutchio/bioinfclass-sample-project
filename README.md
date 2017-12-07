@@ -1,3 +1,9 @@
+Run the location trees.
+INteresting data.
+Thinking about some other data now.
+
+
+
 
 # Bioinfclass Notes
 
