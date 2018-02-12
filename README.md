@@ -1,5 +1,11 @@
 
-# Bioinfclass Notes
+# Class notes
+
+## 02/12/18
+
+Putting my own line in here
+
+## other stuff
 
 September 2017 - today I wrote a sentence and it was a good time
 
