@@ -1,5 +1,7 @@
 
 # Bioinfclass Notes
+TESTING NEW README
+
 
 September 2017 - today I wrote a sentence and it was a good time
 
