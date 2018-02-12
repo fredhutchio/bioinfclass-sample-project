@@ -1,4 +1,4 @@
-
+Kevin making some changes
 # Bioinfclass Notes
 
 September 2017 - today I wrote a sentence and it was a good time
