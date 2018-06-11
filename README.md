@@ -1,3 +1,5 @@
+Ran the location trees. Interesting Data.
+Thinking about some other studies now.
 Kevin making some changes
 # Bioinfclass Notes
 
