@@ -27,3 +27,10 @@ Thinking about some other studies now.
 
 
 #Hello from the other side!
+
+## June 11, 3:11PM
+
+Ran the location trees.
+Interesting data.
+Thinking about some other studies now.
+
