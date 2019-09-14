@@ -29,6 +29,10 @@ csvuniq -zc species $seqs_per_specimen > $specs_per_species
 specs_per_species_location="$outdir/specs_per_species_location.csv"
 csvuniq -zc species,location $seqs_per_specimen > $specs_per_species_location
 
+# Let's also count all sequences by location
+seqs_per_location="$outdir/seqs_per_location.csv"
+csvuniq -zc species $metadata > $seqs_per_location
+
 
 # Sequence analysis
 # -----------------
